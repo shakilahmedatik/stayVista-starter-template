@@ -1,0 +1,1 @@
+# stayVista-starter-template
